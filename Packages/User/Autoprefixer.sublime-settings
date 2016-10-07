@@ -1,0 +1,4 @@
+{
+    "browsers": ["last 50 versions"],
+    "prefixOnSave": true
+}

@@ -1,0 +1,1 @@
+{"dependencies": [], "platforms": ["*"], "version": "0.7.0", "description": "TS 1.4+: completion, error highlighting, build, snippets, quickinfo, ...", "sublime_text": ">=3000", "url": "https://github.com/Phaiax/ArcticTypescript"}

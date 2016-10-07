@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"ArcticTypescript",
+		"LiveReload",
+		"TypescriptCompletion",
+		"Vintage"
+	],
+	"tab_size": 2,
+	"word_wrap": true
+}

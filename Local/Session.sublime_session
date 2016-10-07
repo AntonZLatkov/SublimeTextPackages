@@ -1,0 +1,2627 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Anton_Vasilev/Desktop/WORKSHOP",
+		"/C/Users/Anton_Vasilev/nodetest/NodeCourse",
+		"/C/Users/Anton_Vasilev/nodetest/second-project",
+		"/C/Users/Anton_Vasilev/nodetest",
+		"/C/Users/Anton_Vasilev/nodetest/first-project",
+		"/C/Users/Anton_Vasilev/nodetest/evaluate/2",
+		"/C/Users/Anton_Vasilev/nodetest/evaluate/Node test",
+		"/C/Users/Anton_Vasilev/testMongoose",
+		"/C/Users/Anton_Vasilev/mongoose",
+		"/C/Users/Anton_Vasilev/mysqlApplication",
+		"/C/Users/Anton_Vasilev/typescript/examples/TypeScriptSamples/warship",
+		"/C/Users/Anton_Vasilev/typescript/07272016",
+		"/C/Users/Anton_Vasilev/typescript/jess/TypeScriptIntro/src",
+		"/C/Users/Anton_Vasilev/typescript/test_sublime/TypeScriptSamples/warship",
+		"/C/Users/Anton_Vasilev/typescript/test_sublime/EssentialTypeScriptBook/manuscript/code/RealWorld",
+		"/C/Users/Anton_Vasilev/typescript",
+		"/C/Users/Anton_Vasilev/typescript/test_sublime/EssentialTypeScriptBook/manuscript",
+		"/C/Users/Anton_Vasilev/typescript/mediaplayer",
+		"/C/Users/Anton_Vasilev/typescript/GAME/ExtremeWalkingSimulator/PhaserTypescript/ExtremeWalkingSimulator",
+		"/C/Users/Anton_Vasilev/Desktop/requests/FRAMEWORK/framework/framework/tools/gridClick",
+		"/C/Users/Anton_Vasilev/angularjs2",
+		"/C/Users/Anton_Vasilev/angular_seminar",
+		"/C/Users/Anton_Vasilev/angularjs2/angular2-seed",
+		"/C/Users/Anton_Vasilev/Desktop/requests/Reporting/SASS tests",
+		"/C/Users/Anton_Vasilev/Desktop/requests/FRAMEWORK/framework/framework",
+		"/C/Users/Anton_Vasilev/test-1"
+	],
+	"last_version": 3083,
+	"last_window_id": 146,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 622.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"stop",
+						"stopPainting"
+					],
+					[
+						"mouse",
+						"mouseenter	.mouseenter()"
+					],
+					[
+						"a",
+						"aDKcodes"
+					],
+					[
+						"selectedI",
+						"selectedInput"
+					],
+					[
+						"each",
+						"each	$.each()"
+					],
+					[
+						"sOption",
+						"sOptionContainerClass"
+					],
+					[
+						"box-",
+						"box-sizing"
+					],
+					[
+						"descri",
+						"description-wrapper"
+					],
+					[
+						"descrip",
+						"description-wrapper"
+					],
+					[
+						"ex",
+						"isExclusive"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"assignValue",
+						"assignValueToMROther"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"uncertainty",
+						"uncertainty"
+					],
+					[
+						"toolt",
+						"tooltip-value"
+					],
+					[
+						"cen",
+						"centroid"
+					],
+					[
+						"in",
+						"inarray	$.inArray()"
+					],
+					[
+						"appe",
+						"appendTo	.appendTo()"
+					],
+					[
+						"number",
+						"numberOfRows"
+					],
+					[
+						"read",
+						"ready	document.ready - $(function(){})"
+					],
+					[
+						"rea",
+						"ready	$(document).ready"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"split",
+						"splitPre"
+					],
+					[
+						"align",
+						"text-align"
+					],
+					[
+						"ready",
+						"ready	document.ready - $(function(){})"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+							""
+						],
+						[
+							"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 265.0,
+				"last_filter": "install package",
+				"selected_items":
+				[
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"random",
+						"Random:Int"
+					],
+					[
+						"package control",
+						"Package Control: Disable Package"
+					],
+					[
+						"prettify",
+						"HTMLPrettify"
+					],
+					[
+						"javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"javsc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pretti",
+						"HTMLPrettify"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"cs",
+						"Set Syntax: CSS"
+					],
+					[
+						"jav",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"package remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"evernote",
+						"Evernote: Search Note"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"c#",
+						"Set Syntax: C#"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"package control satis",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"csv",
+						"CSV: Format"
+					],
+					[
+						"install packa",
+						"Package Control: Install Package"
+					],
+					[
+						"ss",
+						"Set Syntax: SVG"
+					],
+					[
+						"package control insta",
+						"Package Control: Install Package"
+					],
+					[
+						"typescript",
+						"Set Syntax: TypeScript"
+					],
+					[
+						"Css",
+						"Set Syntax: CSS"
+					],
+					[
+						"beautify",
+						"HTMLBeautify"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"minify",
+						"Minify Javascript to file"
+					],
+					[
+						"Javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"JAVASC",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"typesc",
+						"Set Syntax: TypeScript"
+					],
+					[
+						"disable package",
+						"Package Control: Disable Package"
+					],
+					[
+						"package control disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"su",
+						"Dt::Make survey"
+					],
+					[
+						"surve",
+						"Dt::Make survey"
+					],
+					[
+						"boilerplate",
+						"Snippet: Responsive Boilerplate Page Template"
+					],
+					[
+						"pretty",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"angular",
+						"Set Syntax: HTML (Angular.js)"
+					],
+					[
+						"beautif",
+						"HTMLBeautify"
+					],
+					[
+						"prettyfy",
+						"HTMLPrettify: Set Keyboard Shortcuts"
+					],
+					[
+						"beaut",
+						"HTMLBeautify"
+					],
+					[
+						"javascr",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"beait",
+						"Javascript Beautify"
+					],
+					[
+						"html tem",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"CSS",
+						"Set Syntax: CSS"
+					],
+					[
+						"javasci",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"packa insa",
+						"Package Control: Install Package"
+					],
+					[
+						"package control remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"template",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"intall package",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"Snippet: bs3-input-color"
+					],
+					[
+						"js",
+						"Set Syntax: JSON"
+					],
+					[
+						"html te",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"compare",
+						"Compare with..."
+					],
+					[
+						"javascript",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"bootstrap",
+						"Snippet: Bootstrap modal events"
+					],
+					[
+						"javascrp",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"action",
+						"Set Syntax: ActionScript"
+					],
+					[
+						"non text",
+						"Snippet: bs3-input-group-addon-text"
+					],
+					[
+						"html template",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"jsh",
+						"JSHint: Set Keyboard Shortcuts"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"package dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"scheme",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"JSCS",
+						"JSCS Formatter: Format this file"
+					],
+					[
+						"npm",
+						"npm: Install Package"
+					],
+					[
+						"d3",
+						"Snippet: d3.selectAll"
+					],
+					[
+						"javascri",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"comp",
+						"Compare with..."
+					],
+					[
+						"tml",
+						"Emmet: Merge Lines"
+					],
+					[
+						"javscr",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ajvas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"javasc	",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"javascir	",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"view",
+						"SublimeHighlight: view as RTF"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"reindent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"bs3 col3",
+						"Snippet: bs3-col-3"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 118.0,
+				"history":
+				[
+					"print('\\n'*100)",
+					"os.system(\"clear\")",
+					"clear",
+					"clearn",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Anton_Vasilev/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Anton_Vasilev/Desktop/workshop.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/dev/associationgame_3_col.js",
+				"/C/Users/Anton_Vasilev/nodetest/NodeCourse/Nodejs/package.json",
+				"/C/Users/Anton_Vasilev/nodetest/NodeJS/second_test.txt",
+				"/C/Users/Anton_Vasilev/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/GD4HJUWT/matt marontate@livinglens tv_SSI-Audio-Test_2016-08-18-11-20-58.txt",
+				"/C/Users/Anton_Vasilev/Downloads/SSI Test Channel_3_57f25c2ef253730c8c93d49e_2016-10-03/SSI Test Channel_3_57f25c2ef253730c8c93d49e_2016-10-03_en_Automatic_1.vtt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/implementation_DubQuest_updated_10032016.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/implementation_DubQuest_updated_09302016.html",
+				"/Q/Operations/General/!TOP/R&D/Client libraries/Blauw/ALLInOne_DubQuest650_v2.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool_v1.0.min.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/package.json",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool_v1.0.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool_v1.0.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool_v1.0.min.css",
+				"/C/Users/Anton_Vasilev/Desktop/sketch_test.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool.js",
+				"/C/Users/Anton_Vasilev/Desktop/sketch_mod.js",
+				"/C/Users/Anton_Vasilev/Desktop/sketch_mod.min.js",
+				"/Q/Operations/General/!TOP/R&D/Client libraries/Blauw/ALLInOne_DubQuest650_JQuery_v3.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/max-diff/amends/maxdiff_v1.1.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/max-diff/amends/maxdiff_v1.1.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/max-diff/amends/maxdiff_v1.css",
+				"/C/Users/Anton_Vasilev/Desktop/index.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/gridComparison.v1.1.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/index.html",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/handlers/home-page.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/modules/url-image-post.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/modules/images.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/index.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/requests/url-image-post.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/requests/url-image-get.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/content/build/alljs.min.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/gulpfile.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/handlers/index.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/handlers/static-files.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/content/restricted.html",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/handlers/content.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/content/site.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/content/libs/jquery/dist/jquery.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/fix/gridComparison.v1.1_fix.js",
+				"/C/Users/Anton_Vasilev/Desktop/pdfobject.min.js",
+				"/C/Users/Anton_Vasilev/Desktop/useful_scripts.js",
+				"/C/Users/Anton_Vasilev/Desktop/to-do-list.js",
+				"/C/Users/Anton_Vasilev/Desktop/scripts.js",
+				"/C/Users/Anton_Vasilev/Desktop/scripts___.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/fix/gridComparisonSingle.v1.1_fix.js",
+				"/C/Users/Anton_Vasilev/Desktop/Decipher.txt",
+				"/C/Users/Anton_Vasilev/Desktop/stuff.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/fix/gridComparison.v1.1.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/fix/gridComparisonSingle.v1.1.css",
+				"/C/Users/Anton_Vasilev/Desktop/Smileys/magnifyglass.main3_multi.min.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/JS/DragAndDrop.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/JS/SSIScript.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/CSS/SSIStyle.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/Ranking.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/DragAndDrop.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/Home.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/SingleCol/gridComparisonSingle.v1.1.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/SingleCol/gridComparisonSingle.v1.1.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/gridComparison.v1.1.css",
+				"/C/Users/Anton_Vasilev/Desktop/brandAssociationMR_fix.js",
+				"/C/Users/Anton_Vasilev/Desktop/brandAssociationMR_fix.min.js",
+				"/C/Users/Anton_Vasilev/Desktop/asdasdas.css",
+				"/C/Users/Anton_Vasilev/Desktop/brandAssociationMR.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v2/randomColor.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/gridComparison.v1.0.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v2/gridComparison.v2.0_dev.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v2/gridComparison.v2.0_dev.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/gridComparison.v1.0.css",
+				"/Q/Operations/General/!TOP/TheTeam/Ling/New framework/WorkshopDemo/SSI-templating-worksopDemo_noGroup.htm",
+				"/C/Users/Anton_Vasilev/Downloads/SSI Test Channel_18425582-29790808-650_57ac58e2cae54416e0e028e4_2016-09-12/SSI Test Channel_18425582-29790808-650_57ac58e2cae54416e0e028e4_2016-09-12_en_Automatic_1.vtt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Anbaky_Marwan/web-tools/index.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Anbaky_Marwan/web-tools/css/style.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Anbaky_Marwan/web-tools/js/script.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Anbaky_Marwan/web-tools/css/reset.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/gridComparison.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/ssi_ALLInOne_Confirmit_3.3.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/gridComparison.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/gridComparison_table_cell.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/max-diff/maxdiff_v1.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/grid_comparison.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/grid_comparison.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/ORD-239772-Z0T4_Heatmap_flash_data.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/ORD-239772-Z0T4_Heatmap_flash_data_Clear.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/ORD-239772-Z0T4_Heatmap_flash_data_Clear_with_Total.txt",
+				"/C/Users/Anton_Vasilev/Downloads/uk.json",
+				"/C/Users/Anton_Vasilev/Downloads/uk_v2.json",
+				"/C/Users/Anton_Vasilev/Downloads/uk_v4.json",
+				"/C/Users/Anton_Vasilev/AppData/Roaming/Skype/My Skype Received Files/heat map_bookcover from Poorna.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/data_v2_heatmap____newer____.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/data_v2_heatmap____newer____neweeeer.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/p65694524_anton_vasilev_15518733/p65694524_tabdelimited_anton_vasilev_15518733.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/p65689754_anton_vasilev_15518118/p65689754_tabdelimited_anton_vasilev_15518118.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/data_v2_heatmap_new.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/data_v2_heatmap_new_2.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/ssiHeatmap_plugin_v4.1_ORD-239772-Z0T4.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/Data_ID_Cell1_CELL2_UPDATED_v2.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/Data_ID_Cell1_CELL2_UPDATED.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/p65689754_anton_vasilev_15518118/p65689754_tabdelimited_anton_vasilev_15518118_l1.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/Data_ID_Cell2.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/Data_ID_Cell1",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/7zO40E20073/FileSource_636081381361623620_description_15502766.txt",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/7zO40E3E913/FileSource_636081381361623620_15502766.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/API/Plotto/responses.json",
+				"/C/Users/Anton_Vasilev/mongoose/package.json",
+				"/C/Users/Anton_Vasilev/Desktop/test.scss",
+				"/C/Users/Anton_Vasilev/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+				"/C/Users/Anton_Vasilev/Desktop/requests/LivingLens/Program.cs",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp39602/webroot/custom_tags/secure_front_device_responsive.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp42993/webroot/frontoffice/landing_page.cfm",
+				"/Q/Operations/General/!TOP/R&D/Client libraries/Nielsen/Homescan - Cold Fusion/modified_files.txt",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp52241/webroot/frontoffice/result_survey_device_responsive.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp44538/webroot/frontoffice/_upload/landing_pages/KO_KR/2016Young/index.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp42967/webroot/frontoffice/_upload/landing_pages/IT_IT/2016Senior/index.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp42800/webroot/frontoffice/_upload/landing_pages/IT_IT/2016Family/index.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp42089/webroot/frontoffice/_upload/landing_pages/IT_IT/2016Young/index.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp40714/webroot/backoffice/end_pages/index_device_responsive.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp37284/webroot/frontoffice/landing_page.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp50458/webroot/frontoffice/_assets/css/theme_SSI.css",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp48309/webroot/frontoffice/_assets/css/theme_SSI.css",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp18273/webroot/frontoffice/_assets/css/theme_SSI.css",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp46881/webroot/backoffice/import/MSG_IT/COMPLET.txt",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp46689/webroot/backoffice/import/MSG_KO/COMPLET.txt",
+				"/C/Users/Anton_Vasilev/Desktop/template_email.html",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp14784/webroot/frontoffice/header_device_responsive.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp23605/webroot/frontoffice/endcheck_device_responsive.cfm"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"//d2n88fe5uqdqty",
+					"d2n88fe5uqdqty",
+					"width: 380px",
+					"ssitem-block",
+					"answer-row",
+					"id=\"answers",
+					".answers",
+					"spacing",
+					"blockSpacing",
+					"height-lead",
+					", ",
+					"showTime",
+					"playlist",
+					"div",
+					"debug",
+					"fancy",
+					".fancybox(",
+					".fancybox",
+					"livinglens",
+					"artWebcam('prod",
+					"downloadImage",
+					"download",
+					"//s3.amazonaws.com/ssiprojects/rnd/",
+					"canvas-area",
+					"'",
+					"initCanvas",
+					"replaceFile",
+					"imageDownloadName",
+					"scriptingPlatform",
+					"code",
+					"form",
+					"height",
+					"maxWidth",
+					"targetCanvas",
+					"container",
+					"submit",
+					"width",
+					"data",
+					"600",
+					"containerWidth",
+					"imageDownloadName",
+					"canvas.toDataURL()",
+					"imageName",
+					"download",
+					"clr",
+					"imageName",
+					"canvas-area",
+					"target",
+					"Target",
+					"target",
+					"\"canvasElement\"",
+					"#canvasElement",
+					"getform",
+					"canvas",
+					"eval",
+					"download",
+					"redraw",
+					"target",
+					"link",
+					"400",
+					"canvasimg",
+					"can",
+					"can'",
+					"#can",
+					"can",
+					"ready(",
+					"canvas",
+					"button",
+					"Save",
+					"save",
+					"canvas",
+					"2;",
+					"2s",
+					"ease-in-out",
+					"changeColorNegative",
+					"grow-negative",
+					"grow-positive",
+					"ready",
+					"bind",
+					"load",
+					"finish",
+					"fullscreen",
+					"finish",
+					"grow-positive",
+					"#006837 50%)",
+					"#E6E6E6",
+					"#bccee2",
+					"#cedbea",
+					"#ced",
+					"right",
+					"bottom",
+					"350ms",
+					"answered",
+					"hover",
+					"scale(1.4)",
+					"grow-posi",
+					"ease-in-out",
+					"grow-negative",
+					"tag",
+					"keyword",
+					"data",
+					"keyword",
+					"img-name",
+					"jpg",
+					"end",
+					"res.end",
+					"event.stopPropaganation();",
+					"event.preventDefault();",
+					"_99",
+					"Width",
+					"^",
+					"status",
+					"setGameData",
+					"setGameData0",
+					"defGameCorrectAnswers",
+					"create",
+					"mainPending",
+					"checknextbutton",
+					"checknext",
+					"chechnext",
+					"getsc",
+					"^",
+					"\"",
+					"background-position",
+					"magnif",
+					"height",
+					"width",
+					"hover"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"// console.log",
+					";",
+					"\"\\t\"",
+					"\"\\n",
+					"\"\\t",
+					"\"",
+					"\\n'",
+					"	'",
+					"",
+					"'",
+					"<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"1301\" style=\"border-collapse:\n collapse;table-layout:fixed;width:979pt\">\n <colgroup><col width=\"58\" style=\"mso-width-source:userset;mso-width-alt:2121;width:44pt\">\n <col class=\"xl66\" width=\"313\" style=\"mso-width-source:userset;mso-width-alt:11446;\n width:235pt\">\n <col class=\"xl65\" width=\"218\" span=\"4\" style=\"mso-width-source:userset;mso-width-alt:\n 7972;width:164pt\">\n <col width=\"58\" style=\"mso-width-source:userset;mso-width-alt:2121;width:44pt\">\n </colgroup><tbody><tr height=\"25\" style=\"height:18.75pt\">\n  <td height=\"25\" class=\"xl88\" width=\"58\" style=\"height:18.75pt;width:44pt\">&nbsp;</td>\n  <td class=\"xl86\" width=\"313\" style=\"width:235pt\">&nbsp;</td>\n  <td class=\"xl91\" width=\"218\" style=\"width:164pt\">DIRECT</td>\n  <td class=\"xl92\" width=\"218\" style=\"border-left:none;width:164pt\">AGENCE</td>\n  <td class=\"xl92\" width=\"218\" style=\"border-left:none;width:164pt\">CONSEIL</td>\n  <td class=\"xl91\" width=\"218\" style=\"border-left:none;width:164pt\">CONSEIL ET\n  EXPERTISES</td>\n  <td class=\"xl88\" width=\"58\" style=\"width:44pt\">&nbsp;</td>\n </tr>\n <tr height=\"32\" style=\"height:24.0pt\">\n  <td height=\"32\" style=\"height:24.0pt\" align=\"left\" valign=\"top\">\n  <span style=\"mso-ignore:vglayout;\n  position:absolute;z-index:1;margin-left:8px;margin-top:6px;width:39px;\n  height:29px\"><img width=\"39\" height=\"29\" src=\"image002.png\" v:shapes=\"Freeform_x0020_10\"></span>\n  <span style=\"mso-ignore:vglayout2\">\n  <table cellpadding=\"0\" cellspacing=\"0\">\n   <tbody><tr>\n    <td height=\"32\" class=\"xl88\" width=\"58\" style=\"height:24.0pt;width:44pt\">&nbsp;</td>\n   </tr>\n  </tbody></table>\n  </span></td>\n  <td class=\"xl68\">Tarification des comptes</td>\n  <td class=\"xl89\" width=\"218\" style=\"border-left:none;width:164pt\"><font class=\"font7\">Gratuit</font><font class=\"font12\">,<br>\n    sans frais de tenue de compte</font></td>\n  <td class=\"xl90\" width=\"218\" style=\"border-left:none;width:164pt\"><font class=\"font7\">3€ / mois</font><font class=\"font12\"> <br>\n    incluant les frais de tenue de compte</font></td>\n  <td class=\"xl90\" width=\"218\" style=\"border-left:none;width:164pt\"><font class=\"font7\">6€ / mois</font><font class=\"font12\"> <br>\n    incluant les frais de tenue de compte</font></td>\n  <td class=\"xl90\" width=\"218\" style=\"border-left:none;width:164pt\"><font class=\"font7\">9€ / mois<br>\n    </font><font class=\"font12\">incluant les frais de tenue de compte</font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"48\" style=\"height:36.0pt\">\n  <td height=\"48\" class=\"xl88\" style=\"height:36.0pt\">&nbsp;</td>\n  <td class=\"xl68\" style=\"border-top:none\">Carte bancaire</td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\"><font class=\"font7\">Classique gratuite<br>\n    </font><font class=\"font12\">(la carte Premier est payante à 7,50€/mois)</font></td>\n  <td colspan=\"2\" class=\"xl67\" width=\"436\" style=\"border-left:none;width:328pt\"><font class=\"font7\">Classique à 3,50€/mois</font><font class=\"font12\"><br>\n    ou </font><font class=\"font7\">Premier à 10,50€/mois</font></td>\n  <td class=\"xl73\" style=\"border-top:none;border-left:none\">Premier gratuite</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" class=\"xl88\" style=\"height:15.0pt\">&nbsp;</td>\n  <td class=\"xl74\" style=\"border-top:none\">Tarification des opérations</td>\n  <td class=\"xl77\" width=\"218\" style=\"border-top:none;width:164pt\">La plupart sont\n  payantes</td>\n  <td colspan=\"3\" class=\"xl94\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">Les plus fréquentes sont gratuites</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl75\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Retraits d’argent à un\n  distributeur BNP Paribas<span style=\"mso-spacerun:yes\">&nbsp;</span></td>\n  <td class=\"xl78\" dir=\"LTR\" width=\"218\" style=\"width:164pt\">0 €</td>\n  <td colspan=\"3\" class=\"xl97\" dir=\"LTR\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">0 €</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl75\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Retraits d’argent dans\n  un distributeur autre que BNP Paribas<span style=\"mso-spacerun:yes\">&nbsp;</span></td>\n  <td class=\"xl78\" dir=\"LTR\" width=\"218\" style=\"width:164pt\">1 €</td>\n  <td colspan=\"3\" class=\"xl97\" dir=\"LTR\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">1 €</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl75\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Retraits d’espèce en\n  agence<span style=\"mso-spacerun:yes\">&nbsp;</span></td>\n  <td class=\"xl78\" dir=\"LTR\" width=\"218\" style=\"width:164pt\">1 €</td>\n  <td colspan=\"3\" class=\"xl97\" dir=\"LTR\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">0 €</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl75\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Opposition de carte<span style=\"mso-spacerun:yes\">&nbsp;</span></td>\n  <td class=\"xl78\" dir=\"LTR\" width=\"218\" style=\"width:164pt\">10 €</td>\n  <td colspan=\"3\" class=\"xl97\" dir=\"LTR\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">0 €</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl76\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Frais de recherche de\n  documents<span style=\"mso-spacerun:yes\">&nbsp;</span></td>\n  <td class=\"xl79\" dir=\"LTR\" width=\"218\" style=\"width:164pt\">20 €</td>\n  <td colspan=\"3\" class=\"xl100\" dir=\"LTR\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">10 €</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" style=\"height:15.0pt\" align=\"left\" valign=\"top\">\n  <span style=\"mso-ignore:vglayout;\n  position:absolute;z-index:4;margin-left:16px;margin-top:17px;width:28px;\n  height:37px\"><img width=\"28\" height=\"37\" src=\"image004.png\" v:shapes=\"Freeform_x0020_61\"></span><!--[endif]--><span style=\"mso-ignore:vglayout2\">\n  <table cellpadding=\"0\" cellspacing=\"0\">\n   <tbody><tr>\n    <td height=\"20\" class=\"xl88\" width=\"58\" style=\"height:15.0pt;width:44pt\">&nbsp;</td>\n   </tr>\n  </tbody></table>\n  </span></td>\n  <td class=\"xl86\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"32\" style=\"height:24.0pt\">\n  <td height=\"32\" class=\"xl88\" style=\"height:24.0pt\">&nbsp;</td>\n  <td class=\"xl68\">Vous êtes suivi par…</td>\n  <td class=\"xl67\" width=\"218\" style=\"border-left:none;width:164pt\">Lisa, <font class=\"font7\">notre conseillère virtuelle</font><font class=\"font12\">, qui\n  répond à vos questions</font></td>\n  <td class=\"xl72\" width=\"218\" style=\"border-left:none;width:164pt\">Une équipe (2 à\n  3 conseillers identifiés) au sein d'une agence</td>\n  <td colspan=\"2\" class=\"xl72\" width=\"436\" style=\"border-left:none;width:328pt\">Un\n  conseiller dédié dans une agence</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"64\" style=\"height:48.0pt\">\n  <td height=\"64\" class=\"xl88\" style=\"height:48.0pt\">&nbsp;</td>\n  <td class=\"xl71\" width=\"313\" style=\"border-top:none;width:235pt\">En plus de\n  votre/vos conseiller(s), vous avez accès…</td>\n  <td class=\"xl69\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">-</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Au\n  coût de 19€ par consultation, à des spécialistes en crédit immobilier et en <font class=\"font16\">épargne</font></td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Sans\n  surcoût à des spécialistes en crédit immobilier et en <font class=\"font16\">épargne</font></td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Sans\n  surcoût à un ensemble de spécialistes pouvant traiter l’intégralité des <font class=\"font16\">problématiques bancaires et patrimoniales</font><font class=\"font7\"><span style=\"mso-spacerun:yes\">&nbsp;</span></font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" class=\"xl88\" style=\"height:15.0pt\">&nbsp;</td>\n  <td class=\"xl86\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"80\" style=\"height:60.0pt\">\n  <td height=\"80\" style=\"height:60.0pt\" align=\"left\" valign=\"top\">\n  <span style=\"mso-ignore:vglayout;\n  position:absolute;z-index:2;margin-left:7px;margin-top:9px;width:39px;\n  height:41px\"><img width=\"39\" height=\"41\" src=\"image006.png\" v:shapes=\"Freeform_x0020_85\"></span><!--[endif]--><span style=\"mso-ignore:vglayout2\">\n  <table cellpadding=\"0\" cellspacing=\"0\">\n   <tbody><tr>\n    <td height=\"80\" class=\"xl88\" width=\"58\" style=\"height:60.0pt;width:44pt\">&nbsp;</td>\n   </tr>\n  </tbody></table>\n  </span></td>\n  <td class=\"xl68\">Contacts à l'initiative de la banque</td>\n  <td class=\"xl69\" width=\"218\" style=\"border-left:none;width:164pt\">-</td>\n  <td class=\"xl70\" dir=\"LTR\" width=\"218\" style=\"border-left:none;width:164pt\">Vous\n  indiquez à la banque <font class=\"font7\">vos préférences sur les sujets sur\n  lesquels vous souhaitez être contacté</font><font class=\"font6\">, la\n  fréquence idéale et les moyens de vous contacter</font><font class=\"font7\"><span style=\"mso-spacerun:yes\">&nbsp;</span></font></td>\n  <td colspan=\"2\" class=\"xl70\" dir=\"LTR\" width=\"436\" style=\"border-left:none;\n  width:328pt\">La banque <font class=\"font7\">s’engage à vous contacter sur des\n  sujets </font><font class=\"font6\">et/ou à des </font><font class=\"font16\">moments\n  précis</font><font class=\"font8\">, </font><font class=\"font6\">que vous avez\n  préalablement choisis. <br>\n    Vous choisissez également par quels moyens la banque pourra vous contacter</font><font class=\"font7\"><span style=\"mso-spacerun:yes\">&nbsp;</span></font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"60\" style=\"height:45.0pt\">\n  <td height=\"60\" class=\"xl88\" style=\"height:45.0pt\">&nbsp;</td>\n  <td class=\"xl71\" width=\"313\" style=\"border-top:none;width:235pt\">En cas de\n  découvert ou si vous disposez d’une somme d’argent importante sur votre\n  compte courant…</td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\"><font class=\"font7\">Vous décidez seul et </font><font class=\"font16\">agissez en\n  fonction</font><font class=\"font17\"> </font><font class=\"font12\">(pas\n  d'alerte, ni proposition de la part de la banque)</font></td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">La\n  banque <font class=\"font7\">vous alerte, puis vous décidez seul et </font><font class=\"font16\">agissez en fonction</font><font class=\"font7\"><span style=\"mso-spacerun:yes\">&nbsp;</span></font></td>\n  <td colspan=\"2\" class=\"xl67\" width=\"436\" style=\"border-left:none;width:328pt\"><font class=\"font7\">La banque vous alerte et vous propose une </font><font class=\"font16\">solution</font><font class=\"font7\">,</font><font class=\"font14\">\n  </font><font class=\"font6\">puis vous</font><font class=\"font9\"> </font><font class=\"font7\">décidez seul et </font><font class=\"font16\">agissez en\n  fonction<span style=\"mso-spacerun:yes\">&nbsp;</span></font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" class=\"xl88\" style=\"height:15.0pt\">&nbsp;</td>\n  <td class=\"xl82\" style=\"border-top:none\">En agence, vous pouvez effectuer vos\n  opérations</td>\n  <td class=\"xl85\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">&nbsp;</td>\n  <td colspan=\"3\" class=\"xl85\" width=\"654\" style=\"border-left:none;width:492pt\">&nbsp;</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl83\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Sur les distributeurs et\n  automates</td>\n  <td class=\"xl84\" dir=\"LTR\" width=\"218\" style=\"border-left:none;width:164pt\">Gratuitement</td>\n  <td colspan=\"3\" class=\"xl84\" dir=\"LTR\" width=\"654\" style=\"border-left:none;\n  width:492pt\">Gratuitement</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"16\" style=\"mso-height-source:userset;height:12.0pt\">\n  <td height=\"16\" class=\"xl88\" style=\"height:12.0pt\">&nbsp;</td>\n  <td class=\"xl80\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Au guichet ou auprès des\n  conseillers</td>\n  <td class=\"xl81\" dir=\"LTR\" width=\"218\" style=\"border-left:none;width:164pt\">Au\n  guichet avec frais</td>\n  <td colspan=\"3\" class=\"xl81\" dir=\"LTR\" width=\"654\" style=\"border-left:none;\n  width:492pt\">Au guichet ou auprès des conseillers sans surcoût</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"40\" style=\"height:30.0pt\">\n  <td height=\"40\" class=\"xl88\" style=\"height:30.0pt\">&nbsp;</td>\n  <td class=\"xl71\" width=\"313\" style=\"border-top:none;width:235pt\">En cas de\n  dépassement de votre découvert autorisé…</td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Les\n  opérations sont <font class=\"font7\">automatiquement rejetées</font></td>\n  <td colspan=\"3\" class=\"xl67\" width=\"654\" style=\"border-left:none;width:492pt\"><span style=\"mso-spacerun:yes\">&nbsp;</span>La banque <font class=\"font7\">analyse votre\n  situation </font><font class=\"font12\">et selon le cas,</font><font class=\"font7\"> autorise ou rejette les opérations</font><font class=\"font12\">\n  (après vous en avoir informé)</font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"32\" style=\"height:24.0pt\">\n  <td height=\"32\" class=\"xl88\" style=\"height:24.0pt\">&nbsp;</td>\n  <td class=\"xl68\" style=\"border-top:none\">Relevés de compte mensuels reçus…</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Uniquement\n  par <font class=\"font16\">voie électronique</font></td>\n  <td colspan=\"2\" class=\"xl67\" width=\"436\" style=\"border-left:none;width:328pt\">Par <font class=\"font16\">voie électronique</font><font class=\"font12\">, et si vous le\n  souhaitez, par </font><font class=\"font7\">courrier (1€/envoi)</font></td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Par\n  <font class=\"font16\">voie électronique</font><font class=\"font12\"> ou </font><font class=\"font7\">par courrier sans surcoût</font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" class=\"xl88\" style=\"height:15.0pt\">&nbsp;</td>\n  <td class=\"xl86\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" style=\"height:15.0pt\" align=\"left\" valign=\"top\">\n  <span style=\"mso-ignore:vglayout;\n  position:absolute;z-index:3;margin-left:13px;margin-top:1px;width:32px;\n  height:28px\"><img width=\"32\" height=\"28\" src=\"image008.png\" v:shapes=\"Freeform_x0020_79\"></span><!--[endif]--><span style=\"mso-ignore:vglayout2\">\n  <table cellpadding=\"0\" cellspacing=\"0\">\n   <tbody><tr>\n    <td height=\"20\" class=\"xl88\" width=\"58\" style=\"height:15.0pt;width:44pt\">&nbsp;</td>\n   </tr>\n  </tbody></table>\n  </span></td>\n  <td class=\"xl68\">Votre agence ouverte…</td>\n  <td colspan=\"4\" class=\"xl72\" width=\"872\" style=\"border-left:none;width:656pt\">5\n  jours/7, de 9h à 17h</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"40\" style=\"height:30.0pt\">\n  <td height=\"40\" class=\"xl88\" style=\"height:30.0pt\">&nbsp;</td>\n  <td class=\"xl71\" width=\"313\" style=\"border-top:none;width:235pt\">Service Client\n  joignable par téléphone et par chat…</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">24h/24,\n  7 jours/7</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Du\n  lundi au vendredi de 9h à 18h<br>\n    Samedi de 9h à 12h</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Du\n  lundi au samedi de 8h à 22h</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">24h/24,\n  7 jours/7</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"32\" style=\"height:24.0pt\">\n  <td height=\"32\" class=\"xl88\" style=\"height:24.0pt\">&nbsp;</td>\n  <td class=\"xl68\" style=\"border-top:none\">Service Client joignable au tarif de…</td>\n  <td colspan=\"2\" class=\"xl67\" width=\"436\" style=\"border-left:none;width:328pt\"><font class=\"font7\">12 cts €/min </font><font class=\"font12\">(numéro spécial)</font></td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\"><font class=\"font7\">Normal</font><font class=\"font12\"> des communications (numéro\n  classique)</font></td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Gratuit\n  <font class=\"font6\">(numéro vert)</font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" class=\"xl88\" style=\"height:15.0pt\">&nbsp;</td>\n  <td class=\"xl86\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"0\" style=\"display:none\">\n  <td width=\"58\" style=\"width:44pt\"></td>\n  <td width=\"313\" style=\"width:235pt\"></td>\n  <td width=\"218\" style=\"width:164pt\"></td>\n  <td width=\"218\" style=\"width:164pt\"></td>\n  <td width=\"218\" style=\"width:164pt\"></td>\n  <td width=\"218\" style=\"width:164pt\"></td>\n  <td width=\"58\" style=\"width:44pt\"></td>\n </tr>\n</tbody></table>",
+					"",
+					"\",\\n",
+					"\", \"",
+					".country_KO#page",
+					"\\n",
+					"Qa62",
+					"",
+					"\\n",
+					"",
+					"Public",
+					"\\n",
+					"'",
+					"', '",
+					"','",
+					"['",
+					"\"dropy\":",
+					"\"drop\":",
+					":",
+					"mployment/ educational contribution",
+					"\"dropy\": -4.1",
+					">",
+					"<",
+					"\\n",
+					";\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 149.0
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 29.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.textarea":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 372.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1006.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"stop",
+						"stopPainting"
+					],
+					[
+						"mouse",
+						"mouseenter	.mouseenter()"
+					],
+					[
+						"a",
+						"aDKcodes"
+					],
+					[
+						"selectedI",
+						"selectedInput"
+					],
+					[
+						"each",
+						"each	$.each()"
+					],
+					[
+						"sOption",
+						"sOptionContainerClass"
+					],
+					[
+						"box-",
+						"box-sizing"
+					],
+					[
+						"descri",
+						"description-wrapper"
+					],
+					[
+						"descrip",
+						"description-wrapper"
+					],
+					[
+						"ex",
+						"isExclusive"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"assignValue",
+						"assignValueToMROther"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"uncertainty",
+						"uncertainty"
+					],
+					[
+						"toolt",
+						"tooltip-value"
+					],
+					[
+						"cen",
+						"centroid"
+					],
+					[
+						"in",
+						"inarray	$.inArray()"
+					],
+					[
+						"appe",
+						"appendTo	.appendTo()"
+					],
+					[
+						"number",
+						"numberOfRows"
+					],
+					[
+						"read",
+						"ready	document.ready - $(function(){})"
+					],
+					[
+						"rea",
+						"ready	$(document).ready"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"split",
+						"splitPre"
+					],
+					[
+						"align",
+						"text-align"
+					],
+					[
+						"ready",
+						"ready	document.ready - $(function(){})"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Anton_Vasilev/Desktop/things.todo",
+					"settings":
+					{
+						"buffer_size": 503,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "\n\nLiving Lens:\n  ✔ All videos - Export/ all filtered videos export (like transcription extractions), maybe add a function to download transcripts(all meta data) alongside all videos; @done (16-10-06 16:56)\n  ✔ Face recognition module; @done (16-10-06 16:56)\n  ✔ Audio only option (leave video blank so record just audio, best if audio is extracted to save space); @done (16-10-06 16:57)\n  ✔ Option for upload only/record only @done (16-10-06 16:58)\n  ✔ Download cut video @done (16-10-06 16:58)\n  ✔ Showreel - combine/join multiple videos in 1; @done (16-10-06 16:58)\n  ✔ Profiles menu - give option to remove profile. I am not sure if this is because of permissions but if you give the option to create new profile, one should be able remove it. One of our PMs was unable to log after I created a profile and there was no way for us to reset her password/account. Maybe we did something wrong. @done (16-10-06 17:00)\n  ✔ Edit video menu - add link: back to video. Currently there are only delete/save @done (16-10-06 17:01)\n  ✔ Word cloud - button is not easy to spot (my opinion). Can excluded words be set ('hi', 'and', 'will'....). Do you plan on adding a download to some format (maybe png/pdf)? @done (16-10-06 17:02)\n  ✔ Creation of project (generating apikey/clientid) inside the platform; @done (16-10-06 17:03)\n  ✔ Interface language - if not covered already; @done (16-10-06 17:03)\n  ✔ Show event time - sometimes it is not clear  when the video is uploaded. For example in transcription extraction page; @done (16-10-06 17:25)\n  ✔ Record another video option; @done (16-10-06 17:57)\n  ✔ Summary for all information (not only word cloud); @done (16-10-06 17:58)\n  ✔ Control quality/size of captured video for faster upload @done (16-10-06 17:59)\n  ✔ IE support? @done (16-10-06 18:01)\n  ✔ Video scrubbing - Control over videos based on access @done (16-10-06 18:03)\n\n\nPlotto:\n  ☐ Platform is centered on building the survey inside the platform (not very intuitive for anything else);\n  ☐ Data (tags/filters) passed without API;\n  ☐ Option for upload only/record only\n  ☐ Platform access control?\n  ☐ Interface Language - more flexible;\n  ☐ Audio/video calibration (detection)\n  ☐ Minimum/maximum \n  ☐ Same format export\n  ☐ Video scrubbing - Control over videos based on access\n  ☐ IE Support\n  ☐ Option to rotate videos\n\nPlotto\n  ☐ 30s - PC - 7s - 1.27mb after export (webm)\n  ☐ 1min - PC - 11s - 2.48mb after export (webm)\n\n  ☐ 30s - Mobile - 25s - ~60mb on phone - 60mb after export(mp4)\n  ☐ 1min - Mobile - 61s - ~120mb on phone - 120mb after export(mp4)\n\nLiving Lens\n  ☐ 30s - PC - 89s/99s - ~4mb after export(mp4)\n  ☐ 1min - PC - 150s/192s - ~9mb after export(mp4)\n\n  ☐ 30s - Mobile - 46s/61s - ~60mb on phone - ~9.5mb after export(mp4)\n  ☐ 1min - Mobile - 84s/102s - ~120mb on phone - ~18mb after export(mp4)",
+					"file": "/C/Users/Anton_Vasilev/Desktop/videoOE.todo",
+					"file_size": 2556,
+					"file_write_time": 131202194960184488,
+					"settings":
+					{
+						"buffer_size": 2826,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "//d2n88fe5uqdqty.cloudfront.net/rnd/tools/images/loading.gif\n\n//d2n88fe5uqdqty.cloudfront.net/rnd/tools/_root/ssi_ALLInOne_Confirmit_1.7.js\n//d2n88fe5uqdqty.cloudfront.net/\n//d2n88fe5uqdqty.cloudfront.net/rnd/ssistem/ssistem_v_09_8.1/require.js\n//d2n88fe5uqdqty.cloudfront.net/rnd/ssistem/ssistem_v_09_8.1/main.js\n//d2n88fe5uqdqty.cloudfront.net/rnd/MarketingDemo/\n//d2n88fe5uqdqty.cloudfront.net/rnd/tools/_root/ssi_ALLInOne_Confirmit_2.2.js\n\n//d2n88fe5uqdqty.cloudfront.net/rnd/MarketingDemo/jMDT002/loading.gif\n\n//s3.amazonaws.com/ssiprojects/rnd/tools/_root/ssi_ALLInOne_Confirmit_2.2.js\n\nrnd/ssistem/ssistem_v_09_8.1/main.js\n\n\n//d2n88fe5uqdqty.cloudfront.net/rnd/tools/shelftest/js/shelf2_ORD-236514-M3Q6.js\n\n//d2n88fe5uqdqty.cloudfront.net/ssifr/2016/ORD-236522-T9D4/img1.jpg\n\n\n\n//d2n88fe5uqdqty.cloudfront.net/rnd/template/customtemplate/Globescan/chevron-right-darkBlue.png\n//d2n88fe5uqdqty.cloudfront.net/rnd/template/customtemplate/Globescan/chevron-left-darkBlue.png\n\n//d2n88fe5uqdqty.cloudfront.net/rnd/plugins/jquery-ui/1.12.0/jquery-ui.min.css\n\n//d2n88fe5uqdqty.cloudfront.net/rnd/tools/sliders/images/smiley_1.png\n\n\n\npath=%path%;C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319\n\n\n//d2n88fe5uqdqty.cloudfront.net/ssiusers/anton_vasilev/demo/PDF/pdfobject.min.js\n\n//d2n88fe5uqdqty.cloudfront.net/ssiusers/anton_vasilev/demo/PDF/Confirmit_Scripting_C185_Rev1_US.pdf\n\n\n\n//d2n88fe5uqdqty.cloudfront.net/rnd/plugins/fancybox/source/jquery.fancybox.css\n//d2n88fe5uqdqty.cloudfront.net/rnd/plugins/fancybox/source/jquery.fancybox.js\n//d2n88fe5uqdqty.cloudfront.net/rnd/plugins/sketch/sketch_mod.min.js\n//d2n88fe5uqdqty.cloudfront.net/ssiusers/kaloyan_georgiev/canvas/sketch/index.html",
+					"settings":
+					{
+						"buffer_size": 1690,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Anton_Vasilev/Desktop/scripts___.js",
+					"settings":
+					{
+						"buffer_size": 18440,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Living Lens:\n  Pros:\n    - Intuitive and fast UI;\n    - Overall good look and feel of the platform;\n    - Easy to embed the widget to the survey;\n    - Good filtering video functionality;\n    - Easy user access control;\n    - Wordcloud representation with clickable functionality;\n    - Easy/intuitive video edit functionality;\n    - Video/audio capture detection;\n\n  Cons:\n    - Cannot download cut video;\n    - No showreel option for combining multiple videos/clips;\n    - Cannot remove already created profile;\n    - When inside Edit video menu there is no easy way to navigate back;\n    - Cannot easy change tool interface language based on country fielded;\n    - Record another video option should be controlled;\n    - No control over quality/size of captured video for faster upload/process/download (less server storage traffic);\n    - IE support? Shouldn't use Flash in the long term, especially for html5 complient browsers;\n\n  Wish-list:\n    - All filtered(or unfiltered) videos export with option to include excel sheet with all relevent information;\n    - Face recognition/emotion module;\n    - Audio only record/upload option;\n    - Option to change the widget to ask for either upload only or record only;\n    - Word cloud - option to exclude words from the report ('hello', 'and', 'etc.');\n    - Creation of a new project inside the platform;\n    - Show event time, not only date as sometimes you cannot be sure which is the latest/oldest video. Order by functionality is there but still not entirely clear;\n    - Project summary page/dashboard would be a nice feature to have including as much information as possible (not only wordcloud);\n    - Video scrubbing - control over videos based on user access. Filtering some videos for client account but showing all (un-cleaned) for an admin user. Admin user should also easily have the client view;\n\n\n\n\n\n\nPlotto:\n  Pros:\n\n  Cons:\n    - Platform is not intuitive \n\n\n\n  Wish-list:\n    - \n\n",
+					"file": "/C/Users/Anton_Vasilev/Desktop/videoOEcompare.todo",
+					"file_size": 0,
+					"file_write_time": 131202324926774488,
+					"settings":
+					{
+						"buffer_size": 1951,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+							""
+						],
+						[
+							"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "package",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"sublimecode",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"random",
+						"Random:Int"
+					],
+					[
+						"package control",
+						"Package Control: Disable Package"
+					],
+					[
+						"prettify",
+						"HTMLPrettify"
+					],
+					[
+						"javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"javsc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pretti",
+						"HTMLPrettify"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"cs",
+						"Set Syntax: CSS"
+					],
+					[
+						"jav",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"package remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"evernote",
+						"Evernote: Search Note"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"c#",
+						"Set Syntax: C#"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"package control satis",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"csv",
+						"CSV: Format"
+					],
+					[
+						"install packa",
+						"Package Control: Install Package"
+					],
+					[
+						"ss",
+						"Set Syntax: SVG"
+					],
+					[
+						"package control insta",
+						"Package Control: Install Package"
+					],
+					[
+						"typescript",
+						"Set Syntax: TypeScript"
+					],
+					[
+						"Css",
+						"Set Syntax: CSS"
+					],
+					[
+						"beautify",
+						"HTMLBeautify"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"minify",
+						"Minify Javascript to file"
+					],
+					[
+						"Javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"JAVASC",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"typesc",
+						"Set Syntax: TypeScript"
+					],
+					[
+						"disable package",
+						"Package Control: Disable Package"
+					],
+					[
+						"package control disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"su",
+						"Dt::Make survey"
+					],
+					[
+						"surve",
+						"Dt::Make survey"
+					],
+					[
+						"boilerplate",
+						"Snippet: Responsive Boilerplate Page Template"
+					],
+					[
+						"pretty",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"angular",
+						"Set Syntax: HTML (Angular.js)"
+					],
+					[
+						"beautif",
+						"HTMLBeautify"
+					],
+					[
+						"prettyfy",
+						"HTMLPrettify: Set Keyboard Shortcuts"
+					],
+					[
+						"beaut",
+						"HTMLBeautify"
+					],
+					[
+						"javascr",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"beait",
+						"Javascript Beautify"
+					],
+					[
+						"html tem",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"CSS",
+						"Set Syntax: CSS"
+					],
+					[
+						"javasci",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"packa insa",
+						"Package Control: Install Package"
+					],
+					[
+						"package control remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"template",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"intall package",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"Snippet: bs3-input-color"
+					],
+					[
+						"js",
+						"Set Syntax: JSON"
+					],
+					[
+						"html te",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"compare",
+						"Compare with..."
+					],
+					[
+						"javascript",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"bootstrap",
+						"Snippet: Bootstrap modal events"
+					],
+					[
+						"javascrp",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"action",
+						"Set Syntax: ActionScript"
+					],
+					[
+						"non text",
+						"Snippet: bs3-input-group-addon-text"
+					],
+					[
+						"html template",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"jsh",
+						"JSHint: Set Keyboard Shortcuts"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"package dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"scheme",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"JSCS",
+						"JSCS Formatter: Format this file"
+					],
+					[
+						"npm",
+						"npm: Install Package"
+					],
+					[
+						"d3",
+						"Snippet: d3.selectAll"
+					],
+					[
+						"javascri",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"comp",
+						"Compare with..."
+					],
+					[
+						"tml",
+						"Emmet: Merge Lines"
+					],
+					[
+						"javscr",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ajvas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"javasc	",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"javascir	",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"view",
+						"SublimeHighlight: view as RTF"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"reindent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"bs3 col3",
+						"Snippet: bs3-col-3"
+					]
+				],
+				"width": 488.0
+			},
+			"console":
+			{
+				"height": 118.0,
+				"history":
+				[
+					"print('\\n'*100)",
+					"os.system(\"clear\")",
+					"clear",
+					"clearn",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Anton_Vasilev/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Anton_Vasilev/Desktop/workshop.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/dev/associationgame_3_col.js",
+				"/C/Users/Anton_Vasilev/nodetest/NodeCourse/Nodejs/package.json",
+				"/C/Users/Anton_Vasilev/nodetest/NodeJS/second_test.txt",
+				"/C/Users/Anton_Vasilev/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/GD4HJUWT/matt marontate@livinglens tv_SSI-Audio-Test_2016-08-18-11-20-58.txt",
+				"/C/Users/Anton_Vasilev/Downloads/SSI Test Channel_3_57f25c2ef253730c8c93d49e_2016-10-03/SSI Test Channel_3_57f25c2ef253730c8c93d49e_2016-10-03_en_Automatic_1.vtt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/implementation_DubQuest_updated_10032016.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/implementation_DubQuest_updated_09302016.html",
+				"/Q/Operations/General/!TOP/R&D/Client libraries/Blauw/ALLInOne_DubQuest650_v2.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool_v1.0.min.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/package.json",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool_v1.0.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool_v1.0.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool_v1.0.min.css",
+				"/C/Users/Anton_Vasilev/Desktop/sketch_test.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/canvasTool/canvasTool.js",
+				"/C/Users/Anton_Vasilev/Desktop/sketch_mod.js",
+				"/C/Users/Anton_Vasilev/Desktop/sketch_mod.min.js",
+				"/Q/Operations/General/!TOP/R&D/Client libraries/Blauw/ALLInOne_DubQuest650_JQuery_v3.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/max-diff/amends/maxdiff_v1.1.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/max-diff/amends/maxdiff_v1.1.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/max-diff/amends/maxdiff_v1.css",
+				"/C/Users/Anton_Vasilev/Desktop/index.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/gridComparison.v1.1.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/index.html",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/handlers/home-page.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/modules/url-image-post.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/modules/images.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/index.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/requests/url-image-post.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/requests/url-image-get.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/content/build/alljs.min.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/gulpfile.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/handlers/index.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/handlers/static-files.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/content/restricted.html",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/handlers/content.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/content/site.js",
+				"/C/Users/Anton_Vasilev/nodetest/first-project/content/libs/jquery/dist/jquery.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/fix/gridComparison.v1.1_fix.js",
+				"/C/Users/Anton_Vasilev/Desktop/pdfobject.min.js",
+				"/C/Users/Anton_Vasilev/Desktop/useful_scripts.js",
+				"/C/Users/Anton_Vasilev/Desktop/to-do-list.js",
+				"/C/Users/Anton_Vasilev/Desktop/scripts.js",
+				"/C/Users/Anton_Vasilev/Desktop/scripts___.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/fix/gridComparisonSingle.v1.1_fix.js",
+				"/C/Users/Anton_Vasilev/Desktop/Decipher.txt",
+				"/C/Users/Anton_Vasilev/Desktop/stuff.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/fix/gridComparison.v1.1.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/fix/gridComparisonSingle.v1.1.css",
+				"/C/Users/Anton_Vasilev/Desktop/Smileys/magnifyglass.main3_multi.min.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/JS/DragAndDrop.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/JS/SSIScript.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/CSS/SSIStyle.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/Ranking.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/DragAndDrop.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Dhanashree/SSI Assignment/Tool/Home.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/SingleCol/gridComparisonSingle.v1.1.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/SingleCol/gridComparisonSingle.v1.1.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/gridComparison.v1.1.css",
+				"/C/Users/Anton_Vasilev/Desktop/brandAssociationMR_fix.js",
+				"/C/Users/Anton_Vasilev/Desktop/brandAssociationMR_fix.min.js",
+				"/C/Users/Anton_Vasilev/Desktop/asdasdas.css",
+				"/C/Users/Anton_Vasilev/Desktop/brandAssociationMR.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v2/randomColor.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/gridComparison.v1.0.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v2/gridComparison.v2.0_dev.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v2/gridComparison.v2.0_dev.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/v1/gridComparison.v1.0.css",
+				"/Q/Operations/General/!TOP/TheTeam/Ling/New framework/WorkshopDemo/SSI-templating-worksopDemo_noGroup.htm",
+				"/C/Users/Anton_Vasilev/Downloads/SSI Test Channel_18425582-29790808-650_57ac58e2cae54416e0e028e4_2016-09-12/SSI Test Channel_18425582-29790808-650_57ac58e2cae54416e0e028e4_2016-09-12_en_Automatic_1.vtt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Anbaky_Marwan/web-tools/index.html",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Anbaky_Marwan/web-tools/css/style.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Anbaky_Marwan/web-tools/js/script.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/assignments/Anbaky_Marwan/web-tools/css/reset.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/gridComparison.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/ssi_ALLInOne_Confirmit_3.3.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/gridComparison.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/gridComparison_table_cell.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/max-diff/maxdiff_v1.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/grid_comparison.css",
+				"/C/Users/Anton_Vasilev/Desktop/requests/tools/Globescan/grid_comparison.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/ORD-239772-Z0T4_Heatmap_flash_data.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/ORD-239772-Z0T4_Heatmap_flash_data_Clear.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/ORD-239772-Z0T4_Heatmap_flash_data_Clear_with_Total.txt",
+				"/C/Users/Anton_Vasilev/Downloads/uk.json",
+				"/C/Users/Anton_Vasilev/Downloads/uk_v2.json",
+				"/C/Users/Anton_Vasilev/Downloads/uk_v4.json",
+				"/C/Users/Anton_Vasilev/AppData/Roaming/Skype/My Skype Received Files/heat map_bookcover from Poorna.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/data_v2_heatmap____newer____.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/data_v2_heatmap____newer____neweeeer.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/p65694524_anton_vasilev_15518733/p65694524_tabdelimited_anton_vasilev_15518733.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/p65689754_anton_vasilev_15518118/p65689754_tabdelimited_anton_vasilev_15518118.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/data_v2_heatmap_new.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/data_v2_heatmap_new_2.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/ssiHeatmap_plugin_v4.1_ORD-239772-Z0T4.js",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/Data_ID_Cell1_CELL2_UPDATED_v2.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/Data_ID_Cell1_CELL2_UPDATED.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/p65689754_anton_vasilev_15518118/p65689754_tabdelimited_anton_vasilev_15518118_l1.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/Data_ID_Cell2.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/temp/Data_Heatmap/Data_ID_Cell1",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/7zO40E20073/FileSource_636081381361623620_description_15502766.txt",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/7zO40E3E913/FileSource_636081381361623620_15502766.txt",
+				"/C/Users/Anton_Vasilev/Desktop/requests/API/Plotto/responses.json",
+				"/C/Users/Anton_Vasilev/mongoose/package.json",
+				"/C/Users/Anton_Vasilev/Desktop/test.scss",
+				"/C/Users/Anton_Vasilev/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+				"/C/Users/Anton_Vasilev/Desktop/requests/LivingLens/Program.cs",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp39602/webroot/custom_tags/secure_front_device_responsive.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp42993/webroot/frontoffice/landing_page.cfm",
+				"/Q/Operations/General/!TOP/R&D/Client libraries/Nielsen/Homescan - Cold Fusion/modified_files.txt",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp52241/webroot/frontoffice/result_survey_device_responsive.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp44538/webroot/frontoffice/_upload/landing_pages/KO_KR/2016Young/index.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp42967/webroot/frontoffice/_upload/landing_pages/IT_IT/2016Senior/index.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp42800/webroot/frontoffice/_upload/landing_pages/IT_IT/2016Family/index.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp42089/webroot/frontoffice/_upload/landing_pages/IT_IT/2016Young/index.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp40714/webroot/backoffice/end_pages/index_device_responsive.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp37284/webroot/frontoffice/landing_page.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp50458/webroot/frontoffice/_assets/css/theme_SSI.css",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp48309/webroot/frontoffice/_assets/css/theme_SSI.css",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp18273/webroot/frontoffice/_assets/css/theme_SSI.css",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp46881/webroot/backoffice/import/MSG_IT/COMPLET.txt",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp46689/webroot/backoffice/import/MSG_KO/COMPLET.txt",
+				"/C/Users/Anton_Vasilev/Desktop/template_email.html",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp14784/webroot/frontoffice/header_device_responsive.cfm",
+				"/C/Users/Anton_Vasilev/AppData/Local/Temp/scp23605/webroot/frontoffice/endcheck_device_responsive.cfm"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"//d2n88fe5uqdqty",
+					"d2n88fe5uqdqty",
+					"width: 380px",
+					"ssitem-block",
+					"answer-row",
+					"id=\"answers",
+					".answers",
+					"spacing",
+					"blockSpacing",
+					"height-lead",
+					", ",
+					"showTime",
+					"playlist",
+					"div",
+					"debug",
+					"fancy",
+					".fancybox(",
+					".fancybox",
+					"livinglens",
+					"artWebcam('prod",
+					"downloadImage",
+					"download",
+					"//s3.amazonaws.com/ssiprojects/rnd/",
+					"canvas-area",
+					"'",
+					"initCanvas",
+					"replaceFile",
+					"imageDownloadName",
+					"scriptingPlatform",
+					"code",
+					"form",
+					"height",
+					"maxWidth",
+					"targetCanvas",
+					"container",
+					"submit",
+					"width",
+					"data",
+					"600",
+					"containerWidth",
+					"imageDownloadName",
+					"canvas.toDataURL()",
+					"imageName",
+					"download",
+					"clr",
+					"imageName",
+					"canvas-area",
+					"target",
+					"Target",
+					"target",
+					"\"canvasElement\"",
+					"#canvasElement",
+					"getform",
+					"canvas",
+					"eval",
+					"download",
+					"redraw",
+					"target",
+					"link",
+					"400",
+					"canvasimg",
+					"can",
+					"can'",
+					"#can",
+					"can",
+					"ready(",
+					"canvas",
+					"button",
+					"Save",
+					"save",
+					"canvas",
+					"2;",
+					"2s",
+					"ease-in-out",
+					"changeColorNegative",
+					"grow-negative",
+					"grow-positive",
+					"ready",
+					"bind",
+					"load",
+					"finish",
+					"fullscreen",
+					"finish",
+					"grow-positive",
+					"#006837 50%)",
+					"#E6E6E6",
+					"#bccee2",
+					"#cedbea",
+					"#ced",
+					"right",
+					"bottom",
+					"350ms",
+					"answered",
+					"hover",
+					"scale(1.4)",
+					"grow-posi",
+					"ease-in-out",
+					"grow-negative",
+					"tag",
+					"keyword",
+					"data",
+					"keyword",
+					"img-name",
+					"jpg",
+					"end",
+					"res.end",
+					"event.stopPropaganation();",
+					"event.preventDefault();",
+					"_99",
+					"Width",
+					"^",
+					"status",
+					"setGameData",
+					"setGameData0",
+					"defGameCorrectAnswers",
+					"create",
+					"mainPending",
+					"checknextbutton",
+					"checknext",
+					"chechnext",
+					"getsc",
+					"^",
+					"\"",
+					"background-position",
+					"magnif",
+					"height",
+					"width",
+					"hover"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"// console.log",
+					";",
+					"\"\\t\"",
+					"\"\\n",
+					"\"\\t",
+					"\"",
+					"\\n'",
+					"	'",
+					"",
+					"'",
+					"<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"1301\" style=\"border-collapse:\n collapse;table-layout:fixed;width:979pt\">\n <colgroup><col width=\"58\" style=\"mso-width-source:userset;mso-width-alt:2121;width:44pt\">\n <col class=\"xl66\" width=\"313\" style=\"mso-width-source:userset;mso-width-alt:11446;\n width:235pt\">\n <col class=\"xl65\" width=\"218\" span=\"4\" style=\"mso-width-source:userset;mso-width-alt:\n 7972;width:164pt\">\n <col width=\"58\" style=\"mso-width-source:userset;mso-width-alt:2121;width:44pt\">\n </colgroup><tbody><tr height=\"25\" style=\"height:18.75pt\">\n  <td height=\"25\" class=\"xl88\" width=\"58\" style=\"height:18.75pt;width:44pt\">&nbsp;</td>\n  <td class=\"xl86\" width=\"313\" style=\"width:235pt\">&nbsp;</td>\n  <td class=\"xl91\" width=\"218\" style=\"width:164pt\">DIRECT</td>\n  <td class=\"xl92\" width=\"218\" style=\"border-left:none;width:164pt\">AGENCE</td>\n  <td class=\"xl92\" width=\"218\" style=\"border-left:none;width:164pt\">CONSEIL</td>\n  <td class=\"xl91\" width=\"218\" style=\"border-left:none;width:164pt\">CONSEIL ET\n  EXPERTISES</td>\n  <td class=\"xl88\" width=\"58\" style=\"width:44pt\">&nbsp;</td>\n </tr>\n <tr height=\"32\" style=\"height:24.0pt\">\n  <td height=\"32\" style=\"height:24.0pt\" align=\"left\" valign=\"top\">\n  <span style=\"mso-ignore:vglayout;\n  position:absolute;z-index:1;margin-left:8px;margin-top:6px;width:39px;\n  height:29px\"><img width=\"39\" height=\"29\" src=\"image002.png\" v:shapes=\"Freeform_x0020_10\"></span>\n  <span style=\"mso-ignore:vglayout2\">\n  <table cellpadding=\"0\" cellspacing=\"0\">\n   <tbody><tr>\n    <td height=\"32\" class=\"xl88\" width=\"58\" style=\"height:24.0pt;width:44pt\">&nbsp;</td>\n   </tr>\n  </tbody></table>\n  </span></td>\n  <td class=\"xl68\">Tarification des comptes</td>\n  <td class=\"xl89\" width=\"218\" style=\"border-left:none;width:164pt\"><font class=\"font7\">Gratuit</font><font class=\"font12\">,<br>\n    sans frais de tenue de compte</font></td>\n  <td class=\"xl90\" width=\"218\" style=\"border-left:none;width:164pt\"><font class=\"font7\">3€ / mois</font><font class=\"font12\"> <br>\n    incluant les frais de tenue de compte</font></td>\n  <td class=\"xl90\" width=\"218\" style=\"border-left:none;width:164pt\"><font class=\"font7\">6€ / mois</font><font class=\"font12\"> <br>\n    incluant les frais de tenue de compte</font></td>\n  <td class=\"xl90\" width=\"218\" style=\"border-left:none;width:164pt\"><font class=\"font7\">9€ / mois<br>\n    </font><font class=\"font12\">incluant les frais de tenue de compte</font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"48\" style=\"height:36.0pt\">\n  <td height=\"48\" class=\"xl88\" style=\"height:36.0pt\">&nbsp;</td>\n  <td class=\"xl68\" style=\"border-top:none\">Carte bancaire</td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\"><font class=\"font7\">Classique gratuite<br>\n    </font><font class=\"font12\">(la carte Premier est payante à 7,50€/mois)</font></td>\n  <td colspan=\"2\" class=\"xl67\" width=\"436\" style=\"border-left:none;width:328pt\"><font class=\"font7\">Classique à 3,50€/mois</font><font class=\"font12\"><br>\n    ou </font><font class=\"font7\">Premier à 10,50€/mois</font></td>\n  <td class=\"xl73\" style=\"border-top:none;border-left:none\">Premier gratuite</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" class=\"xl88\" style=\"height:15.0pt\">&nbsp;</td>\n  <td class=\"xl74\" style=\"border-top:none\">Tarification des opérations</td>\n  <td class=\"xl77\" width=\"218\" style=\"border-top:none;width:164pt\">La plupart sont\n  payantes</td>\n  <td colspan=\"3\" class=\"xl94\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">Les plus fréquentes sont gratuites</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl75\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Retraits d’argent à un\n  distributeur BNP Paribas<span style=\"mso-spacerun:yes\">&nbsp;</span></td>\n  <td class=\"xl78\" dir=\"LTR\" width=\"218\" style=\"width:164pt\">0 €</td>\n  <td colspan=\"3\" class=\"xl97\" dir=\"LTR\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">0 €</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl75\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Retraits d’argent dans\n  un distributeur autre que BNP Paribas<span style=\"mso-spacerun:yes\">&nbsp;</span></td>\n  <td class=\"xl78\" dir=\"LTR\" width=\"218\" style=\"width:164pt\">1 €</td>\n  <td colspan=\"3\" class=\"xl97\" dir=\"LTR\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">1 €</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl75\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Retraits d’espèce en\n  agence<span style=\"mso-spacerun:yes\">&nbsp;</span></td>\n  <td class=\"xl78\" dir=\"LTR\" width=\"218\" style=\"width:164pt\">1 €</td>\n  <td colspan=\"3\" class=\"xl97\" dir=\"LTR\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">0 €</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl75\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Opposition de carte<span style=\"mso-spacerun:yes\">&nbsp;</span></td>\n  <td class=\"xl78\" dir=\"LTR\" width=\"218\" style=\"width:164pt\">10 €</td>\n  <td colspan=\"3\" class=\"xl97\" dir=\"LTR\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">0 €</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl76\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Frais de recherche de\n  documents<span style=\"mso-spacerun:yes\">&nbsp;</span></td>\n  <td class=\"xl79\" dir=\"LTR\" width=\"218\" style=\"width:164pt\">20 €</td>\n  <td colspan=\"3\" class=\"xl100\" dir=\"LTR\" width=\"654\" style=\"border-right:.5pt solid gray;\n  border-left:none;width:492pt\">10 €</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" style=\"height:15.0pt\" align=\"left\" valign=\"top\">\n  <span style=\"mso-ignore:vglayout;\n  position:absolute;z-index:4;margin-left:16px;margin-top:17px;width:28px;\n  height:37px\"><img width=\"28\" height=\"37\" src=\"image004.png\" v:shapes=\"Freeform_x0020_61\"></span><!--[endif]--><span style=\"mso-ignore:vglayout2\">\n  <table cellpadding=\"0\" cellspacing=\"0\">\n   <tbody><tr>\n    <td height=\"20\" class=\"xl88\" width=\"58\" style=\"height:15.0pt;width:44pt\">&nbsp;</td>\n   </tr>\n  </tbody></table>\n  </span></td>\n  <td class=\"xl86\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"32\" style=\"height:24.0pt\">\n  <td height=\"32\" class=\"xl88\" style=\"height:24.0pt\">&nbsp;</td>\n  <td class=\"xl68\">Vous êtes suivi par…</td>\n  <td class=\"xl67\" width=\"218\" style=\"border-left:none;width:164pt\">Lisa, <font class=\"font7\">notre conseillère virtuelle</font><font class=\"font12\">, qui\n  répond à vos questions</font></td>\n  <td class=\"xl72\" width=\"218\" style=\"border-left:none;width:164pt\">Une équipe (2 à\n  3 conseillers identifiés) au sein d'une agence</td>\n  <td colspan=\"2\" class=\"xl72\" width=\"436\" style=\"border-left:none;width:328pt\">Un\n  conseiller dédié dans une agence</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"64\" style=\"height:48.0pt\">\n  <td height=\"64\" class=\"xl88\" style=\"height:48.0pt\">&nbsp;</td>\n  <td class=\"xl71\" width=\"313\" style=\"border-top:none;width:235pt\">En plus de\n  votre/vos conseiller(s), vous avez accès…</td>\n  <td class=\"xl69\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">-</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Au\n  coût de 19€ par consultation, à des spécialistes en crédit immobilier et en <font class=\"font16\">épargne</font></td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Sans\n  surcoût à des spécialistes en crédit immobilier et en <font class=\"font16\">épargne</font></td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Sans\n  surcoût à un ensemble de spécialistes pouvant traiter l’intégralité des <font class=\"font16\">problématiques bancaires et patrimoniales</font><font class=\"font7\"><span style=\"mso-spacerun:yes\">&nbsp;</span></font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" class=\"xl88\" style=\"height:15.0pt\">&nbsp;</td>\n  <td class=\"xl86\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"80\" style=\"height:60.0pt\">\n  <td height=\"80\" style=\"height:60.0pt\" align=\"left\" valign=\"top\">\n  <span style=\"mso-ignore:vglayout;\n  position:absolute;z-index:2;margin-left:7px;margin-top:9px;width:39px;\n  height:41px\"><img width=\"39\" height=\"41\" src=\"image006.png\" v:shapes=\"Freeform_x0020_85\"></span><!--[endif]--><span style=\"mso-ignore:vglayout2\">\n  <table cellpadding=\"0\" cellspacing=\"0\">\n   <tbody><tr>\n    <td height=\"80\" class=\"xl88\" width=\"58\" style=\"height:60.0pt;width:44pt\">&nbsp;</td>\n   </tr>\n  </tbody></table>\n  </span></td>\n  <td class=\"xl68\">Contacts à l'initiative de la banque</td>\n  <td class=\"xl69\" width=\"218\" style=\"border-left:none;width:164pt\">-</td>\n  <td class=\"xl70\" dir=\"LTR\" width=\"218\" style=\"border-left:none;width:164pt\">Vous\n  indiquez à la banque <font class=\"font7\">vos préférences sur les sujets sur\n  lesquels vous souhaitez être contacté</font><font class=\"font6\">, la\n  fréquence idéale et les moyens de vous contacter</font><font class=\"font7\"><span style=\"mso-spacerun:yes\">&nbsp;</span></font></td>\n  <td colspan=\"2\" class=\"xl70\" dir=\"LTR\" width=\"436\" style=\"border-left:none;\n  width:328pt\">La banque <font class=\"font7\">s’engage à vous contacter sur des\n  sujets </font><font class=\"font6\">et/ou à des </font><font class=\"font16\">moments\n  précis</font><font class=\"font8\">, </font><font class=\"font6\">que vous avez\n  préalablement choisis. <br>\n    Vous choisissez également par quels moyens la banque pourra vous contacter</font><font class=\"font7\"><span style=\"mso-spacerun:yes\">&nbsp;</span></font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"60\" style=\"height:45.0pt\">\n  <td height=\"60\" class=\"xl88\" style=\"height:45.0pt\">&nbsp;</td>\n  <td class=\"xl71\" width=\"313\" style=\"border-top:none;width:235pt\">En cas de\n  découvert ou si vous disposez d’une somme d’argent importante sur votre\n  compte courant…</td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\"><font class=\"font7\">Vous décidez seul et </font><font class=\"font16\">agissez en\n  fonction</font><font class=\"font17\"> </font><font class=\"font12\">(pas\n  d'alerte, ni proposition de la part de la banque)</font></td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">La\n  banque <font class=\"font7\">vous alerte, puis vous décidez seul et </font><font class=\"font16\">agissez en fonction</font><font class=\"font7\"><span style=\"mso-spacerun:yes\">&nbsp;</span></font></td>\n  <td colspan=\"2\" class=\"xl67\" width=\"436\" style=\"border-left:none;width:328pt\"><font class=\"font7\">La banque vous alerte et vous propose une </font><font class=\"font16\">solution</font><font class=\"font7\">,</font><font class=\"font14\">\n  </font><font class=\"font6\">puis vous</font><font class=\"font9\"> </font><font class=\"font7\">décidez seul et </font><font class=\"font16\">agissez en\n  fonction<span style=\"mso-spacerun:yes\">&nbsp;</span></font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" class=\"xl88\" style=\"height:15.0pt\">&nbsp;</td>\n  <td class=\"xl82\" style=\"border-top:none\">En agence, vous pouvez effectuer vos\n  opérations</td>\n  <td class=\"xl85\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">&nbsp;</td>\n  <td colspan=\"3\" class=\"xl85\" width=\"654\" style=\"border-left:none;width:492pt\">&nbsp;</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"15\" style=\"mso-height-source:userset;height:11.25pt\">\n  <td height=\"15\" class=\"xl88\" style=\"height:11.25pt\">&nbsp;</td>\n  <td class=\"xl83\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Sur les distributeurs et\n  automates</td>\n  <td class=\"xl84\" dir=\"LTR\" width=\"218\" style=\"border-left:none;width:164pt\">Gratuitement</td>\n  <td colspan=\"3\" class=\"xl84\" dir=\"LTR\" width=\"654\" style=\"border-left:none;\n  width:492pt\">Gratuitement</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"16\" style=\"mso-height-source:userset;height:12.0pt\">\n  <td height=\"16\" class=\"xl88\" style=\"height:12.0pt\">&nbsp;</td>\n  <td class=\"xl80\" dir=\"LTR\" width=\"313\" style=\"width:235pt\">Au guichet ou auprès des\n  conseillers</td>\n  <td class=\"xl81\" dir=\"LTR\" width=\"218\" style=\"border-left:none;width:164pt\">Au\n  guichet avec frais</td>\n  <td colspan=\"3\" class=\"xl81\" dir=\"LTR\" width=\"654\" style=\"border-left:none;\n  width:492pt\">Au guichet ou auprès des conseillers sans surcoût</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"40\" style=\"height:30.0pt\">\n  <td height=\"40\" class=\"xl88\" style=\"height:30.0pt\">&nbsp;</td>\n  <td class=\"xl71\" width=\"313\" style=\"border-top:none;width:235pt\">En cas de\n  dépassement de votre découvert autorisé…</td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Les\n  opérations sont <font class=\"font7\">automatiquement rejetées</font></td>\n  <td colspan=\"3\" class=\"xl67\" width=\"654\" style=\"border-left:none;width:492pt\"><span style=\"mso-spacerun:yes\">&nbsp;</span>La banque <font class=\"font7\">analyse votre\n  situation </font><font class=\"font12\">et selon le cas,</font><font class=\"font7\"> autorise ou rejette les opérations</font><font class=\"font12\">\n  (après vous en avoir informé)</font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"32\" style=\"height:24.0pt\">\n  <td height=\"32\" class=\"xl88\" style=\"height:24.0pt\">&nbsp;</td>\n  <td class=\"xl68\" style=\"border-top:none\">Relevés de compte mensuels reçus…</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Uniquement\n  par <font class=\"font16\">voie électronique</font></td>\n  <td colspan=\"2\" class=\"xl67\" width=\"436\" style=\"border-left:none;width:328pt\">Par <font class=\"font16\">voie électronique</font><font class=\"font12\">, et si vous le\n  souhaitez, par </font><font class=\"font7\">courrier (1€/envoi)</font></td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Par\n  <font class=\"font16\">voie électronique</font><font class=\"font12\"> ou </font><font class=\"font7\">par courrier sans surcoût</font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" class=\"xl88\" style=\"height:15.0pt\">&nbsp;</td>\n  <td class=\"xl86\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" style=\"height:15.0pt\" align=\"left\" valign=\"top\">\n  <span style=\"mso-ignore:vglayout;\n  position:absolute;z-index:3;margin-left:13px;margin-top:1px;width:32px;\n  height:28px\"><img width=\"32\" height=\"28\" src=\"image008.png\" v:shapes=\"Freeform_x0020_79\"></span><!--[endif]--><span style=\"mso-ignore:vglayout2\">\n  <table cellpadding=\"0\" cellspacing=\"0\">\n   <tbody><tr>\n    <td height=\"20\" class=\"xl88\" width=\"58\" style=\"height:15.0pt;width:44pt\">&nbsp;</td>\n   </tr>\n  </tbody></table>\n  </span></td>\n  <td class=\"xl68\">Votre agence ouverte…</td>\n  <td colspan=\"4\" class=\"xl72\" width=\"872\" style=\"border-left:none;width:656pt\">5\n  jours/7, de 9h à 17h</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"40\" style=\"height:30.0pt\">\n  <td height=\"40\" class=\"xl88\" style=\"height:30.0pt\">&nbsp;</td>\n  <td class=\"xl71\" width=\"313\" style=\"border-top:none;width:235pt\">Service Client\n  joignable par téléphone et par chat…</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">24h/24,\n  7 jours/7</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Du\n  lundi au vendredi de 9h à 18h<br>\n    Samedi de 9h à 12h</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Du\n  lundi au samedi de 8h à 22h</td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">24h/24,\n  7 jours/7</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"32\" style=\"height:24.0pt\">\n  <td height=\"32\" class=\"xl88\" style=\"height:24.0pt\">&nbsp;</td>\n  <td class=\"xl68\" style=\"border-top:none\">Service Client joignable au tarif de…</td>\n  <td colspan=\"2\" class=\"xl67\" width=\"436\" style=\"border-left:none;width:328pt\"><font class=\"font7\">12 cts €/min </font><font class=\"font12\">(numéro spécial)</font></td>\n  <td class=\"xl67\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\"><font class=\"font7\">Normal</font><font class=\"font12\"> des communications (numéro\n  classique)</font></td>\n  <td class=\"xl72\" width=\"218\" style=\"border-top:none;border-left:none;width:164pt\">Gratuit\n  <font class=\"font6\">(numéro vert)</font></td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" class=\"xl88\" style=\"height:15.0pt\">&nbsp;</td>\n  <td class=\"xl86\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl87\">&nbsp;</td>\n  <td class=\"xl88\">&nbsp;</td>\n </tr>\n <tr height=\"0\" style=\"display:none\">\n  <td width=\"58\" style=\"width:44pt\"></td>\n  <td width=\"313\" style=\"width:235pt\"></td>\n  <td width=\"218\" style=\"width:164pt\"></td>\n  <td width=\"218\" style=\"width:164pt\"></td>\n  <td width=\"218\" style=\"width:164pt\"></td>\n  <td width=\"218\" style=\"width:164pt\"></td>\n  <td width=\"58\" style=\"width:44pt\"></td>\n </tr>\n</tbody></table>",
+					"",
+					"\",\\n",
+					"\", \"",
+					".country_KO#page",
+					"\\n",
+					"Qa62",
+					"",
+					"\\n",
+					"",
+					"Public",
+					"\\n",
+					"'",
+					"', '",
+					"','",
+					"['",
+					"\"dropy\":",
+					"\"drop\":",
+					":",
+					"mployment/ educational contribution",
+					"\"dropy\": -4.1",
+					">",
+					"<",
+					"\\n",
+					";\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Anton_Vasilev/Desktop/things.todo",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 503,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										454,
+										454
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.scan":
+									{
+										"current_ext": ".todo",
+										"current_syntax": "PlainTasks/PlainTasks",
+										"enabled": false,
+										"last_updated": 1468828436.77
+									},
+									"color_scheme": "Packages/PlainTasks/tasks.hidden-tmTheme",
+									"intellitip_row": 32,
+									"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Anton_Vasilev/Desktop/videoOE.todo",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2826,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2207,
+										2207
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"intellitip_row": 29,
+									"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 399.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1690,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										474,
+										474
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.scan":
+									{
+										"current_ext": null,
+										"current_syntax": "JavaScript/JavaScript",
+										"enabled": false,
+										"last_updated": 1469520017.07
+									},
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended (SL).tmTheme",
+									"intellitip_row": 9,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Anton_Vasilev/Desktop/scripts___.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18440,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										398,
+										398
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												592,
+												593
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												178,
+												179
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended (SL).tmTheme",
+									"intellitip_row": 17,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 70.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 4,
+							"file": "/C/Users/Anton_Vasilev/Desktop/videoOEcompare.todo",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1951,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1926,
+										1926
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"intellitip_row": 41,
+									"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 456.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 149.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 29.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.textarea":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,709,827,29,1849",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 372.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 27,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
